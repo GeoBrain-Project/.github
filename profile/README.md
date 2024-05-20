@@ -29,7 +29,7 @@ GeoBrain Core provides researchers and developers with a Python library for core
 <details>
   <summary>Learn More</summary>
 
-Intelligent geomodelling at the reservoir scale
+Intelligent subsurface modeling, prediction and decision making
 
 </details>
 
@@ -40,6 +40,7 @@ Intelligent geomodelling at the reservoir scale
 <details>
   <summary>Learn More</summary>
 
-Intelligent geomodelling at the rock scale
+Intelligent digital rock modeling and upscaling 
+
 
 </details>

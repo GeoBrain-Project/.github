@@ -29,7 +29,7 @@ GeoBrain Core provides researchers and developers with a Python library for core
 <details>
   <summary>Learn More</summary>
 
-IntelliGeoX is used for stochastic geomodeling, and IntelliRock, which applies physics-informed deep learning for inversion and inference of earth models based on geophysical and well data.
+Intelligent geomodelling at the reservoir scale
 
 </details>
 
@@ -40,6 +40,6 @@ IntelliGeoX is used for stochastic geomodeling, and IntelliRock, which applies p
 <details>
   <summary>Learn More</summary>
 
-AI-powered digital rock physics
+Intelligent geomodelling at the rock scale
 
 </details>
